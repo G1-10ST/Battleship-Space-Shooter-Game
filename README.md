@@ -11,4 +11,4 @@ Shooting :- Spacebar
 10 points to destroy obstacles.
 30 points to destroy enemy battleships.
 
-Put all the resources in a file and link it to the project.
+Put all the resources in a file and link it to the project as an external library.
