@@ -12,3 +12,5 @@ Shooting :- Spacebar
 30 points to destroy enemy battleships.
 
 Put all the resources in a file and link it to the project as an external library.
+
+![](ss1.png)
